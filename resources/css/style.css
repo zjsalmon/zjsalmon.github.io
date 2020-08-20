@@ -1,5 +1,11 @@
 body{
-    background-color: rgb(73, 172, 116);
+    background-color: tan;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Garamond, Georgia, Times, serif;
+}
+img {
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
 }
