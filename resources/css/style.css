@@ -3,8 +3,16 @@ body{
     text-align: center;
     font-family: Garamond, Georgia, Times, serif;
 }
-img {
+img{
   border: 1px solid black;
   border-radius: 4px;
   width: 600px;
+}
+li{
+    display: inline;
+    padding: 25px;
+}
+.sub-header{
+    font-style: italic;
+    font-size: 10px;
 }
