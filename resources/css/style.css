@@ -31,8 +31,13 @@ li{
     margin: 100px;
     display: inline-block;
 }
+#riverlink{
+    font-size: 24px;
+    font-style: italic;
+    text-align: center;
+}
 footer{
     font-size: 10px;
     text-align: right;
-    position: relative;
+    position: fixed;
 }
