@@ -41,6 +41,9 @@ li{
     font-style: italic;
     text-align: center;
 }
+#bikestory{
+    padding: 150px;
+}
 footer{
     font-size: 10px;
     text-align: center;
