@@ -16,6 +16,9 @@ li{
     font-style: italic;
     font-size: 12px;
 }
+#home{
+    padding-top: 20px;
+}
 #hometext{
   width: 305px;
   padding: 10px;
@@ -53,6 +56,9 @@ li{
 }
 #nestucca1{
     padding-top: 200px;
+}
+#aboutphoto{
+    padding-top: 50px;
 }
 footer{
     font-size: 12px;
