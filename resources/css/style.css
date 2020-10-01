@@ -41,8 +41,15 @@ li{
     font-style: italic;
     text-align: center;
 }
+#carsmap{
+    padding-top: 50px;
+}
 #bikestory{
     padding: 150px;
+}
+#stillcreek{
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 #nestucca1{
     padding-top: 200px;
