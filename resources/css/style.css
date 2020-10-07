@@ -40,7 +40,17 @@ li{
     display: inline-block;
 }
 #riverlink{
-    font-size: 24px;
+    font-size: 16px;
+    font-style: italic;
+    text-align: center;
+}
+#storylink{
+    font-size: 16px;
+    font-style: italic;
+    text-align: center;
+}
+#aboutlink{
+    font-size: 16px;
     font-style: italic;
     text-align: center;
 }
